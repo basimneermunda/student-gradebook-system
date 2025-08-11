@@ -1,0 +1,75 @@
+Anjali R
+1001
+85
+92
+88
+Rohit Kumar
+1002
+78
+81
+90
+Sneha M
+1003
+94
+89
+95
+Arjun P
+1004
+67
+72
+69
+Divya S
+1005
+88
+76
+84
+Kiran Das
+1006
+74
+83
+79
+Meera N
+1007
+91
+95
+87
+Suresh Babu
+1008
+63
+58
+70
+Lakshmi M
+1009
+80
+85
+82
+Nihal Raj
+1010
+77
+73
+68
+Deepa Jose
+1011
+89
+91
+90
+Vikram S
+1012
+69
+74
+72
+Aparna C
+1013
+96
+93
+97
+Hari K
+1014
+66
+60
+64
+Pooja Nair
+1015
+84
+88
+86
